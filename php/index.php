@@ -10,8 +10,14 @@
     $name = "Gulshan Gehlot";
     $age = 22 ;
 
+
+    $fname = "Ajay";
+    $lname = "Singh";
+
     
     echo "My Name is $name...! <br> Age is $age<br>";
+    echo "My Name is $fname $lname...! <br> Age is $age<br>";
+  
     ?>
 </body>
 </html>
